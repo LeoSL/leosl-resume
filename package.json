@@ -1,0 +1,30 @@
+{
+  "name": "leosl-resume",
+  "version": "1.0.0",
+  "description": "Leonardo Lima (LeoSL) personal resume in a CLI style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoSL/leosl-resume.git"
+  },
+  "keywords": [
+    "resume",
+    "cli",
+    "npm",
+    "package",
+    "leosl"
+  ],
+  "author": "LeoSL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoSL/leosl-resume/issues"
+  },
+  "homepage": "https://github.com/LeoSL/leosl-resume#readme",
+  "dependencies": {
+    "chalk": "2.4.2",
+    "inquirer": "6.2.2"
+  }
+}
