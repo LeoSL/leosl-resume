@@ -1,7 +1,9 @@
 {
-  "About": [
-    "Once graduated in Journalism at UFSC (Brazil), I started to dig deeper in the Software Development area, and there I found a passion! ♥ My first steps were with Java lang but, since 2014, I’m working full-time with web apps, especially Ruby on Rails and all the environment: from Postgres and Docker in the back-end to HTML, (S)CSS and JavaScript (ES5 - jQuery and ES6) in the client layer.",
-    "Talking about front-end, if I found a passion for software development it was with front-end that I developed a true love. When I went to my first BrazilJS conference, I was surprised with all the power of SPAs, PWAs, and web components. Since then I’m focusing my career and my side projects to this area, using mainly React and Node JS as power tools. Besides coding, I also appreciate (summer) outdoors moments with my wife and pets in Toronto - ON - Canada!"
+  "Personal Background": [
+    "Once graduated in Journalism at UFSC (Brazil), I started to dig deeper in the Software Development area, and there I found a passion! ♥",
+    "My first steps were with Java lang but, since 2014, I’m working full-time with web apps, especially Ruby on Rails and all the environment: from Postgres and Docker in the back-end to HTML, (S)CSS and JavaScript (ES5 - jQuery and ES6) in the client layer.",
+    "Talking about front-end, if I found a passion for software development it was with front-end that I developed a true love. When I went to my first BrazilJS conference, I was surprised with all the power of SPAs, PWAs, and web components.",
+    "Since then I’m focusing my career and my side projects to this area, using mainly React and Node JS as power tools. Besides coding, I also appreciate (summer) outdoors moments with my wife and pets in Toronto - ON - Canada!"
   ],
   "Work Experience": [
     "EventMobi - Software Developer / Frontend Specialist - 2018 to Present - I've figured out a way to use React 16 inside Angular 1.5x!",
@@ -16,6 +18,7 @@
     "Udemy - Modern React with Redux"
   ],
   "Contact": [
+    "Personal Website - https://leosl.github.io",
     "LinkedIn - https://www.linkedin.com/in/leosilvalima/"
   ]
 }
