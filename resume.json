@@ -1,0 +1,21 @@
+{
+  "About": [
+    "Once graduated in Journalism at UFSC (Brazil), I started to dig deeper in the Software Development area, and there I found a passion! ♥ My first steps were with Java lang but, since 2014, I’m working full-time with web apps, especially Ruby on Rails and all the environment: from Postgres and Docker in the back-end to HTML, (S)CSS and JavaScript (ES5 - jQuery and ES6) in the client layer.",
+    "Talking about front-end, if I found a passion for software development it was with front-end that I developed a true love. When I went to my first BrazilJS conference, I was surprised with all the power of SPAs, PWAs, and web components. Since then I’m focusing my career and my side projects to this area, using mainly React and Node JS as power tools. Besides coding, I also appreciate (summer) outdoors moments with my wife and pets in Toronto - ON - Canada!"
+  ],
+  "Work Experience": [
+    "EventMobi - Software Developer / Frontend Specialist - 2018 to Present - I've figured out a way to use React 16 inside Angular 1.5x!",
+    "Resultados Digitais (Brazil) - Full Stack Developer / Team Leader - 2014 to 2018 - Worked with Ruby on Rails, jQuery, VanillaJS and React",
+    "Journalist / Content Producer - SmartMob Coworking and Fresta Digital Agency (Brazil) - 2013"
+  ],
+  "Tech Stack": ["JavaScript (Vanilla ES5/ES6, React, Angular 1.x, jQuery)", "Ruby on Rails", "GraphQL", "Firebase", "REST", "HTML5", "S(CSS)", "Mocha", "Jest", "Jasmine", "RSpec", "Gherkin/Cucumber"],
+  "Education": [
+    "Udacity - Front-End Web Developer Nanodegree Program",
+    "UFSC (Brazil) - Software Engineering Bachelor's Degree - 1/4 completed",
+    "UFSC (Brazil) - Journalism Bachelor's Degree - 4/4 completed",
+    "Udemy - Modern React with Redux"
+  ],
+  "Contact": [
+    "LinkedIn - https://www.linkedin.com/in/leosilvalima/"
+  ]
+}
